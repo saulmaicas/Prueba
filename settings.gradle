@@ -1,0 +1,2 @@
+include ':app', ':lib', ':Coordenadas_Geograficas', ':Array'
+rootProject.name='My Application'
